@@ -1,4 +1,7 @@
 TAREA 2 - METAHEURÍSTICAS
+
+Profesora: Leslie Pérez Cáceres
+
 ---
 
 INTEGRANTES:
@@ -75,22 +78,9 @@ TRABAJO COLABORATIVO (CAMBIOS EN EL CÓDIGO):
 
 Para trabajar en equipo utilizando GitHub:
 
-1. Antes de comenzar a trabajar, actualizar el repositorio:
-
    git pull
-
-2. Realizar cambios en el código
-
-3. Guardar cambios:
-
    git add .
-
-4. Crear un commit:
-
-   git commit -m "cambio"
-
-5. Subir cambios al repositorio:
-
+   git commit -m "descripción del cambio"
    git push
 
 NOTA:
